@@ -22,7 +22,7 @@ url:       		   /hmfaysal-omega-theme
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           Derick
   avatar:         hmfaysal.jpg
   email:          hmfaysal@alum.mit.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
@@ -88,8 +88,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://derickc.github.io/'
+  relativeLinks: 'http://derickc.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
